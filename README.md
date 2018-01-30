@@ -1,4 +1,4 @@
-# Concert-Calendar
+# Concert Calendar
 
 The intent of this project is to create an application that compiles concert information from multiple different venues, so instead of
 having to search numerous sites, it is all found in one place.
