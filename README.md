@@ -12,9 +12,9 @@ calendar that can be filtered and searched.
 ## What is Complete?
 
 The SQL database is complete. At this time one venues website is being scraped from and approximately half of the information is currently
-being added to the database.
+being added to the database. A minimal homepage has been created for testing from the front-end.
 
 ## What is Left to be Completed?
 
 The rest of the information from the first venue needs to be scraped. Additional venues will be added and the web front-end will be 
-designed.
+fleshed out.
